@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "grayquest-website",
+  "builds": [],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/main.html"
+    }
+  ]
+}
